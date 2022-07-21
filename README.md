@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ComputerRokii
+- 👀 I’m interested in computer programming 
+- 🌱 I’m currently learning html,css and java
+- 💞️ I’m looking to collaborate on front end dev't
+- 📫 How to reach me @ somalireactions@gmail.com
+- i can wait to make my first App or website
